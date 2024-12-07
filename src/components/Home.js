@@ -3,9 +3,9 @@ import { FiFolder } from 'react-icons/fi';
 
 function Home() {
   const projects = [
-    { id: 1, name: "Projeto 1", url: "https://app-store-tawny.vercel.app/" },  
-    { id: 2, name: "Projeto 2", url: "https://kikacoffee.vercel.app/" }, 
-    { id: 3, name: "Projeto 3", url: "https://cocacard.netlify.app" },  
+    { id: 1, name: "AppStore", url: "https://app-store-tawny.vercel.app/" },  
+    { id: 2, name: "KikaCofee", url: "https://kikacoffee.vercel.app/" }, 
+    { id: 3, name: "CocaCard", url: "https://cocacard.netlify.app" },  
   ];
 
   return (
