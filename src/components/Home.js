@@ -10,7 +10,7 @@ function Home() {
 
   return (
     <div className="container">
-      <h2>Bem-vindo(a) novamente!</h2>
+      <h2>Bem-vindo(a)!</h2>
       <p>Explore os projetos abaixo:</p>
 
       <div className="projects-grid">
